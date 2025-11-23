@@ -18,7 +18,7 @@ def add_task():
 def view_task():
     print("\nYour tasks:")
     if len(todo_list) == 0:
-        print("No tasks available.")
+        print("No tasks added yet.")
     else:
         for i, item in enumerate(todo_list):
             status = "Done" if item["done"] else "Not done"
