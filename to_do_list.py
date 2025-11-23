@@ -12,6 +12,9 @@ def menu():
 
 def add_task():
     t = input("Enter task: ")
+    if t.split() == "":
+        print("Task cannot be empty.")
+        return
     todo_list.append({"name": t, "done": False})
     print("Task added.")
 
