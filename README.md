@@ -1,4 +1,4 @@
-(Some sample outputs from my program)
+(Some sample outputs from my project)
 
 ![Add Task](sample_output/task-add.png)
 
