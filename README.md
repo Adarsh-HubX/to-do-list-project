@@ -1,17 +1,14 @@
-
 ## Screenshots
+
 (Some sample outputs from my program)
 
-![Screenshot1](sample_output/Screenshot 2025-11-23 203405.png)
+![Add Task](sample_output/task-add.png)
 
+![View Tasks](sample_output/task-view.png)
 
-![Screenshot2](sample_output/Screenshot 2025-11-23 203435.png)
+![Mark Done](sample_output/task-done.png)
 
-
-![Screenshot3](sample_output/Screenshot 2025-11-23 203500.png)
-
-
-![Screenshot4](sample_output/Screenshot 2025-11-23 203532.png)
+![Delete Task](sample_output/task-delete.png)
 
 
 ## Future Improvements
