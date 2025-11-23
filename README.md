@@ -1,5 +1,3 @@
-## Screenshots
-
 (Some sample outputs from my program)
 
 ![Add Task](sample_output/task-add.png)
