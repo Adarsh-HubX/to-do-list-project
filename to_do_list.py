@@ -1,3 +1,11 @@
+# Project Title : Simple To-Do List (Python)
+# Name          : Adarsh Rathore
+# Course        : B.Tech CSE (Cyber Security)
+# Roll Number   : 2501410014
+# Faculty       : Dr. Feroz Ahmad Sir
+# Date          : 23 Nov 2025
+
+
 #Simple to-do-lists-project
 
 todo_list = []
