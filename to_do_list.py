@@ -52,6 +52,7 @@ def mark_done():
 
 while True:
     menu()
+    # user option input
     ch = input("Choose option: ")
 
     if ch == "1":
